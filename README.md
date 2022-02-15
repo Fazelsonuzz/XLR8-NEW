@@ -8,7 +8,7 @@ pkg install git wget python3 -y
 
 git clone https://github.com/Fazelsonuzz/XLR8-NEW.git
 
-cd XLR8_BOMBER
+cd XLR8-NEW
 
 python xlr8.py
 
