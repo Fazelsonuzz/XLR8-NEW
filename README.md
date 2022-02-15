@@ -6,7 +6,7 @@ pkg up -y
 
 pkg install git wget python3 -y
 
-git clone https://github.com/fazelsonuzz/XLR8NEW
+git clone https://github.com/Fazelsonuzz/XLR8-NEW.git
 
 cd XLR8_BOMBER
 
